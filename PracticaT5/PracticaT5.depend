@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638270326 source:c:\users\pycol\onedrive\escritorio\formación\expertouniversitario_programacionavanzada\fundamentosprogramacion2\tema4\practicat5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1638270850 source:c:\users\pycol\onedrive\escritorio\formación\expertouniversitario_programacionavanzada\fundamentosprogramacion2\tema4\practicat5\ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
